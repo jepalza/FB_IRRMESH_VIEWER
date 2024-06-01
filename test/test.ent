@@ -1,0 +1,12 @@
+PointLight;
+{
+Position:32,262,168;
+Color:255,255,255;
+Range:500;
+};
+PointLight;
+{
+Position:-176,118,-104;
+Color:255,255,255;
+Range:500;
+};
