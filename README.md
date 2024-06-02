@@ -12,3 +12,5 @@ El fichero TEST.DBO proviene del programa MAPSCAPE version V2 (ver http://www.ev
 debemos convertir el fichero DBO en formato IRRMESH con "mi" conversor -> https://github.com/jepalza/FB_DBO2IRR
 
 este visualizador no está completo, pero funciona lo suficiente para moverse libremente por el mapa
+
+![Imagen fb80486_bios.jpg](https://github.com/jepalza/FB_IRRMESH_VIEWER/blob/main/imagen/irrlicht_dbo.jpg)
